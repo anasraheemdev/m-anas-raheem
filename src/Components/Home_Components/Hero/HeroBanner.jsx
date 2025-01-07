@@ -92,7 +92,7 @@ const HeroBanner = () => {
   };
 
   return (
-    <div className="min-h-screen relative bg-[#0a0a1f] flex items-center pt-24 overflow-hidden z-23">
+    <div className="min-h-screen relative bg-[#0a0a1f] flex items-center pt-24 overflow-hidden z-23 md:pb-32">
       {/* TSParticles Background */}
       <Particles
         id="tsparticles"
